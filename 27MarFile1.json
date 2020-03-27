@@ -136,6 +136,7 @@
       "name": "",
       "tags": [
         "Introduction",
+        "FranConnect",
         "Authentication",
         "Authorization Code",
         "Implicit",
