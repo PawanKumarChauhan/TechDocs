@@ -18,7 +18,7 @@
     },
     {
       "name": "API",
-      "description": "<p>API stands for Application Programming Interface. It provides an interface between two applications or software to communicate with each other.</p>img src=\"images/API.png\"</p>"
+      "description": "<p>API stands for Application Programming Interface. It provides an interface between two applications or software to communicate with each other.</p><img src=\"images/API.png\"</p>"
     },
     {
       "name": "Authentication",
