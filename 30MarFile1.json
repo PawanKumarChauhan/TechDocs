@@ -136,6 +136,7 @@
       "name": "",
       "tags": [
         "Introduction",
+        "API",
         "Authentication",
         "Authorization Code",
         "Implicit",
