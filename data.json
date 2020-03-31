@@ -9,6 +9,10 @@
       "url": "tag/API"
     },
     {
+      "name": "Franchise",
+      "url": "tag/Franchise"
+    },
+    {
       "name": "Authentication",
       "url": "tag/Authentication"
     },
