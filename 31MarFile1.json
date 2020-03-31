@@ -21,16 +21,12 @@
       "description": "<p>API stands for Application Programming Interface. It provides an interface between two applications or piece of code to communicate with each other.</p><img src=\"images/API.png\"></p>"
     },
     {
-      "name": "Franchise",
-      "description": "<p>A Franchise is a type of license that a party (Franchisee) acquires to allow them to have access to a business's (Franchisor) proprietary knowledge, processes, and trademarks in order to allow the party to sell a product or provide a service under the business's name.</p>"
-    },
-    {
       "name": "Franchisor",
       "description": "<p>The Franchisor is the person or corporation that owns the trademarks and business model. The Franchisor licenses the use of the trademark and business model to the Franchisee, usually in exchange for an upfront payment and ongoing royalty payments.</p>"
     },
     {
       "name": "Franchisee",
-      "description": "<p>.</p>"
+      "description": "<p>The Franchisee is the person or Corporation that owns and operates the business using the trademark and business model system licensed from the Franchisor.</p>"
     },
     {
       "name": "Authentication",
@@ -149,7 +145,6 @@
       "tags": [
         "Introduction",
         "API",
-        "Franchise",
         "Franchisor",
         "Franchisee",
         "Authentication",
