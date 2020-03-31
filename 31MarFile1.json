@@ -25,10 +25,6 @@
       "description": "<p>The Franchisor is the person or corporation that owns the trademarks and business model. The Franchisor licenses the use of the trademark and business model to the Franchisee, usually in exchange for an upfront payment and ongoing royalty payments.</p>"
     },
     {
-      "name": "Franchisee",
-      "description": "<p>The Franchisee is the person or Corporation that owns and operates the business using the trademark and business model system licensed from the Franchisor.</p>"
-    },
-    {
       "name": "Authentication",
       "description": "<p>FranConnect recommends you to use OAuth 2.0 authorization to authenticate to the FranConnect API.</p><img src=\"images/AuthorizationTab.png\"><p>Perform the following steps to set up the OAuth 2.0 authorization, using the <strong>Postman</strong> GUI client:</p><ol><li>Select <b>GET</b> as the API method.</li><li>Click the <strong>Authorization</strong> tab.&nbsp;</li><li>Select the option <strong>OAuth 2.0&nbsp;</strong>for the<strong>&nbsp;Type&nbsp;</strong>field.</li><li>Select the option<strong>&nbsp;</strong><strong>Request Headers</strong> for the <strong>Add authorization data to</strong> field.</li><li>Click <strong>Get New Access Token&nbsp;</strong>to generate request for a new token.</li><img src=\"images/AccessTokenOptions.png\"><li>In the <strong>Get New Access Token&nbsp;</strong>dialog that appears, enter the details as explained in the following steps.<ol type=\"a\"> <li style=\"margin-left: 1px;\">Enter a name for your Access Token (Optional).</li><li style=\"margin-left: 1px;\">Select the desired grant type. The FranConnect API supports four grant types using the OAuth framework. The fields in the <strong> Get New Access Token</strong> dialog vary depending upon your selection of the grant type. These are explained in detail in the <u><a href=\"#tag/Authorization-Code\">Authorization Code</a></u>, <u><a href=\"#tag/Implicit\">Implicit</a></u>, <u><a href=\"#tag/Password-Credentials\">Password-Credentials</a></u>, and <u><a href=\"#tag/Client-Credentials\">Client-Credentials</a></u> sections. </li></p>"
     },
@@ -146,7 +142,6 @@
         "Introduction",
         "API",
         "Franchisor",
-        "Franchisee",
         "Authentication",
         "Authorization Code",
         "Implicit",
