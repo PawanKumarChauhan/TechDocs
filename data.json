@@ -1,0 +1,149 @@
+{
+  "apisearch": [
+    {
+      "name": "Introduction",
+      "url": "tag/Introduction"
+    },
+    {
+      "name": "API",
+      "url": "tag/API"
+    },
+    {
+      "name": "Authentication",
+      "url": "tag/Authentication"
+    },
+    {
+      "name": "Franchisee Number",
+      "url": "tag/Franchisee-Number"
+    },
+    {
+      "name": "Retrieve Franchisee Number",
+      "url": "tag/Retrieve-Franchisee-Number"
+    },
+    {
+      "name": "Error Codes",
+      "url": "tag/Error-Codes"
+    },
+    {
+      "name": "List of Sub-Modules",
+      "url": "tag/List-of-Sub-Modules"
+    },
+    {
+      "name": "Retrieve Sub-Modules",
+      "url": "tag/Retrieve-Sub-Modules"
+    },
+    {
+      "name": "List of Field Names",
+      "url": "tag/List-of-Field-Names"
+    },
+    {
+      "name": "Retrieve Schema",
+      "url": "tag/Retrieve-Schema"
+    },
+    {
+      "name": "Admin",
+      "url": "tag/Admin"
+    },
+    {
+      "name": "User",
+      "url": "tag/User"
+    },
+    {
+      "name": "Sales",
+      "url": "tag/Sales"
+    },
+    {
+      "name": "Lead",
+      "url": "tag/Lead"
+    },
+    {
+      "name": "Info Manager",
+      "url": "tag/Info-Manager"
+    },
+    {
+      "name": "Franchisee",
+      "url": "tag/Franchisee"
+    },
+    {
+      "name": "CRM",
+      "url": "tag/CRM"
+    },
+    {
+      "name": "CRM Lead",
+      "url": "tag/CRM-Lead"
+    },
+    {
+      "name": "Contact",
+      "url": "tag/Contact"
+    },
+    {
+      "name": "Account",
+      "url": "tag/Account"
+    },
+    {
+      "name": "Transactions",
+      "url": "Transactions"
+    },
+    {
+      "name": "Opportunity",
+      "url": "tag/Opportunity"
+    },
+    {
+      "name": "Tasks",
+      "url": "tag/Tasks"
+    },
+    {
+      "name": "Task",
+      "url": "tag/Task"
+    },
+    {
+      "name": "Emails",
+      "url": "tag/Emails"
+    },
+    {
+      "name": "Email",
+      "url": "tag/Email"
+    },
+    {
+      "name": "SMS",
+      "url": "tag/SMS"
+    },
+    {
+      "name": "Retrieve SMS",
+      "url": "tag/Retrieve-SMS"
+    },
+    {
+      "name": "Campaigns",
+      "url": "tag/Campaigns"
+    },
+    {
+      "name": "Email Campaigns",
+      "url": "tag/Email-Campaigns"
+    },
+    {
+      "name": "SMS Campaigns",
+      "url": "tag/SMS-Campaigns"
+    },
+    {
+      "name": "Finance",
+      "url": "tag/Finance"
+    },
+    {
+      "name": "Sales Reports",
+      "url": "tag/Sales-Reports"
+    },
+    {
+      "name": "Royalties",
+      "url": "tag/Royalties"
+    },
+    {
+      "name": "Payments",
+      "url": "tag/Payments"
+    },
+    {
+      "name": "Profit and Loss Statements",
+      "url": "tag/Profit-and-Loss-Statements"
+    }
+  ],
+  "components": {}
+}
