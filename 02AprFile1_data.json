@@ -6,6 +6,16 @@
       "url": "tag/Introduction"
     },
     {
+      "displayName": "API",
+      "name": "API",
+      "url": "tag/API"
+    },
+    {
+      "displayName": "Franchisor",
+      "name": "Franchisor",
+      "url": "tag/Franchisor"
+    },
+    {
       "displayName": "OAuth",
       "name": "Authentication",
       "url": "tag/Authentication"
