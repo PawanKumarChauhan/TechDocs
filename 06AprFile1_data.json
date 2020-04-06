@@ -1,0 +1,225 @@
+{
+  "apisearch": [
+    {
+      "displayName": "Introduction",
+      "name": "Introduction",
+      "url": "tag/Introduction"
+    },
+    {
+      "displayName": "OAuth",
+      "name": "Authentication",
+      "url": "tag/Authentication"
+    },
+    {
+      "displayName": "OAuth 2.0",
+      "name": "Authentication",
+      "url": "tag/Authentication"
+    },
+    {
+      "displayName": "Authorization",
+      "name": "Authentication",
+      "url": "tag/Authentication"
+    },
+    {
+      "displayName": "Authentication",
+      "name": "Authentication",
+      "url": "tag/Authentication"
+    },
+    {
+      "displayName": "Implicit",
+      "name": "Authentication",
+      "url": "tag/Implicit"
+    },
+    {
+      "displayName": "Password Credentials",
+      "name": "Authentication",
+      "url": "tag/Password-Credentials"
+    },
+    {
+      "displayName": "Client Credentials",
+      "name": "Authentication",
+      "url": "tag/Client-Credentials"
+    },
+    {
+      "displayName": "Franchise Number",
+      "name": "Franchisee Number",
+      "url": "tag/Franchisee-Number"
+    },
+    {
+      "displayName": "Retrieve Franchise Number",
+      "name": "Retrieve Franchisee Number",
+      "url": "tag/Retrieve-Franchisee-Number"
+    },
+    {
+      "displayName": "Errors",
+      "name": "Error Codes",
+      "url": "tag/Error-Codes"
+    },
+    {
+      "displayName": "Modules",
+      "name": "List of Modules",
+      "url": "tag/List-of-Modules"
+    },
+    {
+      "displayName": "Retrieve Modules",
+      "name": "Retrieve Modules",
+      "url": "tag/Retrieve-Modules"
+    },
+    {
+      "displayName": "Sub-Modules",
+      "name": "List of Sub-Modules",
+      "url": "tag/List-of-Sub-Modules"
+    },
+    {
+      "displayName": "Submodules",
+      "name": "List of Sub-Modules",
+      "url": "tag/List-of-Sub-Modules"
+    },
+    {
+      "displayName": "Retrieve Sub-Modules",
+      "name": "Retrieve Sub-Modules",
+      "url": "tag/Retrieve-Sub-Modules"
+    },
+    {
+      "displayName": "Field Names",
+      "name": "List of Field Names",
+      "url": "tag/List-of-Field-Names"
+    },
+    {
+      "displayName": "Schema",
+      "name": "Retrieve Schema",
+      "url": "tag/Retrieve-Schema"
+    },
+    {
+      "displayName": "Admin",
+      "name": "Admin",
+      "url": "tag/Admin"
+    },
+    {
+      "displayName": "User",
+      "name": "User",
+      "url": "tag/User"
+    },
+    {
+      "displayName": "Sales",
+      "name": "Sales",
+      "url": "tag/Sales"
+    },
+    {
+      "displayName": "Sales Lead",
+      "name": "Lead",
+      "url": "tag/Sales-Lead"
+    },
+    {
+      "displayName": "Retrieve Field Values",
+      "name": "Lead",
+      "url": "tag/Sales-Lead"
+    },
+    {
+      "displayName": "Info Mgr",
+      "name": "Info Manager",
+      "url": "tag/Info-Manager"
+    },
+    {
+      "displayName": "Location",
+      "name": "Franchisee",
+      "url": "tag/Franchisee"
+    },
+    {
+      "displayName": "CRM",
+      "name": "CRM",
+      "url": "tag/CRM"
+    },
+    {
+      "displayName": "CRM Lead",
+      "name": "CRM Lead",
+      "url": "tag/CRM-Lead"
+    },
+    {
+      "displayName": "CRM Contact",
+      "name": "Contact",
+      "url": "tag/Contact"
+    },
+    {
+      "displayName": "CRM Account",
+      "name": "Account",
+      "url": "tag/Account"
+    },
+    {
+      "displayName": "CRM Transaction",
+      "name": "Transactions",
+      "url": "tag/Transactions"
+    },
+    {
+      "displayName": "CRM Opportunity",
+      "name": "Opportunity",
+      "url": "tag/Opportunity"
+    },
+    {
+      "displayName": "Task",
+      "name": "Tasks",
+      "url": "tag/Tasks"
+    },
+    {
+      "displayName": "Email",
+      "name": "Emails",
+      "url": "tag/Emails"
+    },
+    {
+      "displayName": "Retrieve Email",
+      "name": "Emails",
+      "url": "tag/Email-Messages"
+    },
+    {
+      "displayName": "SMS",
+      "name": "SMS",
+      "url": "tag/SMS"
+    },
+    {
+      "displayName": "SMS Messages",
+      "name": "Retrieve SMS",
+      "url": "tag/SMS-Messages"
+    },
+    {
+      "displayName": "Campaign",
+      "name": "Campaigns",
+      "url": "tag/Campaigns"
+    },
+    {
+      "displayName": "Email Campaigns",
+      "name": "Email Campaigns",
+      "url": "tag/Email-Campaigns"
+    },
+    {
+      "displayName": "SMS Campaign",
+      "name": "SMS Campaigns",
+      "url": "tag/SMS-Campaigns"
+    },
+    {
+      "displayName": "Finance API",
+      "name": "Finance",
+      "url": "tag/Finance"
+    },
+    {
+      "displayName": "Sales Report",
+      "name": "Sales Reports",
+      "url": "tag/Sales-Reports"
+    },
+    {
+      "displayName": "Royalty",
+      "name": "Royalties",
+      "url": "tag/Royalties"
+    },
+    {
+      "displayName": "Payment",
+      "name": "Payments",
+      "url": "tag/Payments"
+    },
+    {
+      "displayName": "Profit Loss",
+      "name": "Profit and Loss Statements",
+      "url": "tag/Profit-and-Loss-Statements"
+    }
+  ],
+  "components": {}
+}
