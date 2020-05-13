@@ -3851,7 +3851,7 @@
       "FSUpdateLeadArray": {
         "content": {
           "application/xml": {
-            "example": "<?xml version='1.0' encoding='utf-8'?>\n<fcRequest>\n<fsLead>\n<referenceId>691482979</referenceId>\n<firstName>George</firstName>\n</fsLead>\n</fcRequest>",
+            "example": "<?xml version='1.0' encoding='utf-8'?>\n<fcRequest>\n<fsLead>\n<referenceId>1440427898</referenceId>\n<firstName>Adrian</firstName>\n</fsLead>\n</fcRequest>",
             "schema": {
               "type": "array",
               "items": {
@@ -3870,7 +3870,7 @@
       "FSDeleteLeadArray": {
         "content": {
           "application/xml": {
-            "example": "<?xml version='1.0' encoding='utf-8'?>\n<fcRequest>\n<fsLead>\n<referenceId>884520437</referenceId>\n</fsLead>\n</fcRequest>",
+            "example": "<?xml version='1.0' encoding='utf-8'?>\n<fcRequest>\n<fsLead>\n<referenceId>1440427898</referenceId>\n</fsLead>\n</fcRequest>",
             "schema": {
               "type": "array",
               "items": {
@@ -4818,7 +4818,7 @@
       "FSRetrieveLeadResp": {
         "content": {
           "application/xml": {
-            "example": "<?xml version='1.0' encoding='utf-8'?>\n<fcResponse>\n    <responseStatus>Success</responseStatus>\n<responseId>1396292204</responseId>\n<responseData>\n<fsLead>\n<referenceId>1440427898</referenceId>\n<requestDate>2020-05-13T08:08Z</requestDate>\n       <salutation>Mr.</salutation>\n<firstName>Adam</firstName>\n        <lastName>Smith</lastName>\n<address>100 Main St</address>\n       <address2></address2>\n<city>Seattle</city>\n<country>USA</country>\n <stateID>Washington</stateID>\n<zip>98102</zip>\n<countyID>Adams</countyID>\n<primaryPhoneToCall>Mobile</primaryPhoneToCall>\n        <bestTimeToContact></bestTimeToContact>\n<phone></phone>\n          <phoneExt></phoneExt>\n<homePhone></homePhone>\n<homePhoneExt></homePhoneExt>\n<fax></fax>\n<mobile>9876543210</mobile>\n<emailID>example@franconnect.com</emailID>\n<companyName></companyName>\n<comments></comments>\n<leadStatusID>New Lead</leadStatusID>\n<leadOwnerID>Eriberto Crooks</leadOwnerID>\n<leadRatingID>Warm</leadRatingID>\n    <leadKilledReason></leadKilledReason>\n<leadKilledReasonComment></leadKilledReasonComment>\n<leadSource2ID>Advertisement</leadSource2ID>\n<leadSource3ID>Magazine</leadSource3ID>\n<otherLeadSourceDetail></otherLeadSourceDetail>\n<marketingCodeId></marketingCodeId>\n<liquidCapitalMin></liquidCapitalMin>\n   <liquidCapitalMax></liquidCapitalMax>\n<investTimeframe></investTimeframe>\n<background></background>\n   <sourceOfFunding></sourceOfFunding>\n<nextCallDate></nextCallDate>\n<noOfUnitReq></noOfUnitReq>\n<franchiseAwarded></franchiseAwarded>\n<noOfFieldSold></noOfFieldSold>\n<dateOfOpen></dateOfOpen>\n<statusChangeDate></statusChangeDate>\n<webSiteLead></webSiteLead>\n<forecastClosureDate></forecastClosureDate>\n  <probability></probability>\n<forecastRating></forecastRating>\n  <forecastRevenue></forecastRevenue>\n<coApplicantRelationshipID></coApplicantRelationshipID>\n<ipAddress></ipAddress>\n<browserType></browserType>\n<locationId1></locationId1>\n<locationId1b></locationId1b>\n<locationId2></locationId2>\n<preferredCountry1></preferredCountry1>\n<preferredCity1></preferredCity1>\n       <preferredStateId1></preferredStateId1>\n<preferredCountry2></preferredCountry2>\n<preferredStateId2></preferredStateId2>\n     <preferredCity2></preferredCity2>\n<lastUpdate>2020-05-13T08:08Z</lastUpdate>\n<lastAttended></lastAttended>\n<bounceEmailStatus>No</bounceEmailStatus>\n<spamEmailStatus>No</spamEmailStatus>\n    <bounceReason></bounceReason>\n<unsubscribeReason></unsubscribeReason>\n<unsubscribeReasonDetail></unsubscribeReasonDetail>\n<smartScheduleAppointmentDate>2020-05-13T08:08Z</smartScheduleAppointmentDate>\n<_dob1672783918></_dob1672783918>\n<divisionReferenceId></divisionReferenceId>\n<division></division>\n<leadOwnerReferenceId>298353430</leadOwnerReferenceId>\n<serviceID>Product/Service Update,Newsletters,Announcements</serviceID>\n</fsLead>\n</responseData>\n</fcResponse>"
+            "example": "<?xml version='1.0' encoding='utf-8'?>\n<fcResponse>\n<responseStatus>Success</responseStatus>\n<responseId>1396292204</responseId>\n<responseData>\n<fsLead>\n<referenceId>1440427898</referenceId>\n<requestDate>2020-05-13T08:08Z</requestDate>\n<salutation>Mr.</salutation>\n<firstName>Adam</firstName>\n<lastName>Smith</lastName>\n<address>100 Main St</address>\n<address2></address2>\n<city>Seattle</city>\n<country>USA</country>\n <stateID>Washington</stateID>\n<zip>98102</zip>\n<countyID>Adams</countyID>\n<primaryPhoneToCall>Mobile</primaryPhoneToCall>\n        <bestTimeToContact></bestTimeToContact>\n<phone></phone>\n<phoneExt></phoneExt>\n<homePhone></homePhone>\n<homePhoneExt></homePhoneExt>\n<fax></fax>\n<mobile>9876543210</mobile>\n<emailID>example@franconnect.com</emailID>\n<companyName></companyName>\n<comments></comments>\n<leadStatusID>New Lead</leadStatusID>\n<leadOwnerID>Eriberto Crooks</leadOwnerID>\n<leadRatingID>Warm</leadRatingID>\n<leadKilledReason></leadKilledReason>\n<leadKilledReasonComment></leadKilledReasonComment>\n<leadSource2ID>Advertisement</leadSource2ID>\n<leadSource3ID>Magazine</leadSource3ID>\n<otherLeadSourceDetail></otherLeadSourceDetail>\n<marketingCodeId></marketingCodeId>\n<liquidCapitalMin></liquidCapitalMin>\n   <liquidCapitalMax></liquidCapitalMax>\n<investTimeframe></investTimeframe>\n<background></background>\n<sourceOfFunding></sourceOfFunding>\n<nextCallDate></nextCallDate>\n<noOfUnitReq></noOfUnitReq>\n<franchiseAwarded></franchiseAwarded>\n<noOfFieldSold></noOfFieldSold>\n<dateOfOpen></dateOfOpen>\n<statusChangeDate></statusChangeDate>\n<webSiteLead></webSiteLead>\n<forecastClosureDate></forecastClosureDate>\n<probability></probability>\n<forecastRating></forecastRating>\n<forecastRevenue></forecastRevenue>\n<coApplicantRelationshipID></coApplicantRelationshipID>\n<ipAddress></ipAddress>\n<browserType></browserType>\n<locationId1></locationId1>\n<locationId1b></locationId1b>\n<locationId2></locationId2>\n<preferredCountry1></preferredCountry1>\n<preferredCity1></preferredCity1>\n<preferredStateId1></preferredStateId1>\n<preferredCountry2></preferredCountry2>\n<preferredStateId2></preferredStateId2>\n<preferredCity2></preferredCity2>\n<lastUpdate>2020-05-13T08:08Z</lastUpdate>\n<lastAttended></lastAttended>\n<bounceEmailStatus>No</bounceEmailStatus>\n<spamEmailStatus>No</spamEmailStatus>\n<bounceReason></bounceReason>\n<unsubscribeReason></unsubscribeReason>\n<unsubscribeReasonDetail></unsubscribeReasonDetail>\n<smartScheduleAppointmentDate>2020-05-13T08:08Z</smartScheduleAppointmentDate>\n<_dob1672783918></_dob1672783918>\n<divisionReferenceId></divisionReferenceId>\n<division></division>\n<leadOwnerReferenceId>298353430</leadOwnerReferenceId>\n<serviceID>Product/Service Update,Newsletters,Announcements</serviceID>\n</fsLead>\n</responseData>\n</fcResponse>"
           }
         },
         "description": "Successful"
@@ -4826,7 +4826,7 @@
       "FSUpdateLeadResp": {
         "content": {
           "application/xml": {
-            "example": "<?xml version='1.0' encoding='utf-8'?>\n<fcResponse>\n    <responseStatus>Success</responseStatus>\n<responseId>914186332</responseId>\n<responseData>\n<fsLead>\n<status>Success</status>\n<referenceId>926850934</referenceId>\n</fsLead>\n</responseData>\n</fcResponse>"
+            "example": "<?xml version='1.0' encoding='utf-8'?>\n<fcResponse>\n<responseStatus>Success</responseStatus>\n<responseId>1811406651</responseId>\n<responseData>\n<fsLead>\n<status>Success</status>\n<referenceId>1440427898</referenceId>\n</fsLead>\n</responseData>\n</fcResponse>"
           }
         },
         "description": "Successful"
@@ -4834,7 +4834,7 @@
       "FSDeleteLeadResp": {
         "content": {
           "application/xml": {
-            "example": "<?xml version='1.0' encoding='utf-8'?>\n<fcResponse>\n<responseStatus>Success</responseStatus>\n<responseId>913623338</responseId>\n<responseData>\n<fsLead>\n<status>Success</status>\n<referenceId>884520437</referenceId>\n</fsLead>\n</responseData>\n</fcResponse>"
+            "example": "<?xml version='1.0' encoding='utf-8'?>\n<fcResponse>\n<responseStatus>Success</responseStatus>\n<responseId>876542787</responseId>\n<responseData>\n<fsLead>\n<status>Success</status>\n<referenceId>1440427898</referenceId>\n</fsLead>\n</responseData>\n</fcResponse>"
           }
         },
         "description": "Successful"
