@@ -182,7 +182,8 @@
         "Payments",
         "Adjustments",
         "Profit and Loss Statements",
-        "Event", "Webhook"
+        "Event",
+        "Webhook"
       ]
     }
   ],
