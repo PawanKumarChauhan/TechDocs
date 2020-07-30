@@ -177,12 +177,12 @@
         "Email Campaigns",
         "SMS Campaigns",
         "Finance",
+        "Event",
         "Sales Reports",
         "Royalties",
         "Payments",
         "Adjustments",
         "Profit and Loss Statements",
-        "Event",
         "Webhook"
       ]
     }
